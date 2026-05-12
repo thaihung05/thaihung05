@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Thái Lê Hùng · Thai Le Hung
+# Thái Lê Hùng
 
 **Fullstack Developer in Training** · Ho Chi Minh City, Vietnam
 
