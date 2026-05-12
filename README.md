@@ -12,10 +12,7 @@
 
 ---
 
-## About me · Về tôi
-
-I'm a 3rd-year Information Technology student at **Ho Chi Minh City Open University**, aiming to become a **Fullstack Developer**.
-I enjoy building real products from scratch — from designing databases to connecting APIs to building UIs.
+## Về tôi
 
 > Sinh viên năm 3 ngành CNTT tại **Đại học Mở TP.HCM**, định hướng **Fullstack Developer**.
 > Tôi thích xây dựng sản phẩm thực tế từ đầu đến cuối — từ thiết kế database, xây dựng API đến giao diện người dùng.
@@ -26,7 +23,7 @@ I enjoy building real products from scratch — from designing databases to conn
 
 ---
 
-## Tech stack · Kỹ năng
+## Kỹ năng
 
 **Frontend**
 
@@ -108,10 +105,4 @@ A web system for managing courses, classes, student enrollment, and tuition paym
 ![Thai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaihung05&show_icons=true&theme=default&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaihung05&layout=compact&hide_border=true&theme=default)
 
-</div>
-
----
-
-<div align="center">
-<sub>Open to internship opportunities · Đang tìm kiếm cơ hội thực tập · 2026</sub>
 </div>
