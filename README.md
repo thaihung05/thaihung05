@@ -95,14 +95,3 @@ A web system for managing courses, classes, student enrollment, and tuition paym
 | 📜 | Samsung Innovation Campus (SIC) 2025 — Completion certificate |
 | 📜 | Gemini Certified Educator 2025 |
 | 🌐 | Aptis ESOL B1 — British Council |
-
----
-
-## GitHub stats
-
-<div align="center">
-
-![Thai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thaihung05&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaihung05&layout=compact&hide_border=true&theme=default)
-
-</div>
