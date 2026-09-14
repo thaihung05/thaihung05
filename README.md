@@ -1,97 +1,171 @@
-<!-- Header -->
 <div align="center">
 
-# Thái Lê Hùng
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1D4ED8,100:7C3AED&amp;height=210&amp;section=header&amp;text=THAI%20LE%20HUNG&amp;fontSize=48&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=BUILD%20WITH%20PURPOSE.%20TEST%20WITH%20CARE.&amp;descSize=14&amp;descAlignY=58" width="100%" alt="Thai Le Hung — Build with purpose. Test with care." />
 
-**Fullstack Developer in Training** · Ho Chi Minh City, Vietnam
+<p><strong>Web Development · Software Testing · AI Applications</strong></p>
 
-[![Email](https://img.shields.io/badge/thaihung.work05@gmail.com-333?style=flat-square&logo=gmail&logoColor=white)](mailto:thaihung.work05@gmail.com)
-[![Phone](https://img.shields.io/badge/0819397018-333?style=flat-square&logo=phone&logoColor=white)](tel:0819397018)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=55&lines=Building+web+applications.;Testing+real-world+workflows.;Exploring+AI-assisted+development." alt="Building web applications. Testing real-world workflows. Exploring AI-assisted development." width="600" />
+
+<p>
+IT Student @ Ho Chi Minh City Open University<br/>
+Ho Chi Minh City, Vietnam · Expected graduation: February 2027
+</p>
+
+<p>
+<a href="mailto:thaihung.work05@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-2F81F7?style=flat-square" alt="Email me" /></a>
+<a href="https://github.com/thaihung05/Training_system_project"><img src="https://img.shields.io/badge/PROJECT-Training_System-238636?style=flat-square" alt="Explore Training System" /></a>
+<img src="https://img.shields.io/badge/OPEN_TO-QA%2FQC_Trainee-8957E5?style=flat-square" alt="Open to QA/QC Trainee opportunities" />
+</p>
 
 </div>
 
 ---
 
-## Về tôi
+<p align="center">
+<a href="#about">About</a> · <a href="#skills">Skills</a> · <a href="#projects">Projects</a> · <a href="#experience">Experience</a> · <a href="#activity">Activity</a>
+</p>
 
-> Sinh viên năm 3 ngành CNTT tại **Đại học Mở TP.HCM**, định hướng **Fullstack Developer**.
-> Tôi thích xây dựng sản phẩm thực tế từ đầu đến cuối — từ thiết kế database, xây dựng API đến giao diện người dùng.
+<a id="about"></a>
 
-- 🎓 GPA **3.3 / 4.0** · 3× Academic Excellence Scholarship
-- 🏆 3rd Prize — Software Solution Programming Contest 2025
-- 📌 Expected graduation: **02/2027**
+## 🧑‍💻 About Me
 
----
+I'm an Information Technology student at **Ho Chi Minh City Open University** with hands-on experience building web applications, integrating REST APIs, and testing application workflows.
 
-## Kỹ năng
+During my Learning & Development internship at **MWG**, I built an internal trainer profile website and supported large-scale online training sessions.
 
-**Frontend**
+I'm currently seeking **QA/QC Trainee opportunities**, bringing a development background, practical problem-solving skills, and experience using AI-assisted development tools.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
+- **Education:** GPA 3.3/4.0 · Three academic excellence scholarships
+- **Interests:** Software quality, API workflows, role-based access, and AI applications
+- **English:** Aptis ESOL B1 — British Council
 
-**Backend & Database**
+<a id="skills"></a>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-333?style=flat-square)
+## 🛠️ Technical Skills
 
-**Tools**
+| Area | Technologies & Practices |
+| :--- | :--- |
+| Testing | Test case design, functional testing, test execution, result documentation |
+| Frontend | Vue 3, React, JavaScript, HTML, CSS |
+| Backend | Java, Spring MVC, Spring Boot, Python, Flask, FastAPI |
+| Database & API | MySQL, Hibernate, SQLAlchemy, REST APIs |
+| AI & Automation | RAG integration, Gemini API, Google Apps Script |
+| Tools & Collaboration | Postman, Jira, Git, GitHub |
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<a id="projects"></a>
 
----
+## 🚀 Featured Projects
 
-## Projects · Dự án
+### Internal Employee Training System with RAG Chatbot
 
-### 🏥 Online Polyclinic System · Hệ thống Phòng khám đa khoa Trực tuyến
-*Mar 2026 – May 2026*
+**Graduation Project · Jul–Sep 2026**
 
-A full-stack web application for managing clinic appointments, patient records, and user roles.
+An internal training platform for retail organizations structured by chains, regions, and stores.
 
-> Ứng dụng web fullstack quản lý lịch khám, hồ sơ bệnh nhân và phân quyền người dùng.
+- **Learning workflows:** Course enrollment, progress tracking, assessments, and certificates.
+- **Access control:** Role-based permissions for administrators, trainers, and employees.
+- **AI support:** A RAG chatbot that answers questions using training materials.
+- **Testing:** Functional test cases documenting expected outcomes, actual results, and execution status.
 
-**Stack:** ReactJS · Spring Boot · MySQL · RESTful API
+**Stack:** Java · Spring MVC · Hibernate · MySQL · Vue 3 · Python · FastAPI · Gemini API
 
-- Built RESTful APIs with Spring Boot for authentication and medical data management
-- Developed ReactJS frontend connected via Axios
-- Designed MySQL schema and handled data operations end-to-end
-- Used Git/GitHub for version control and team collaboration
+```text
+Vue 3 Frontend
+      |
+      | REST API
+      v
+Spring MVC Backend ────── Hibernate / MySQL
+      |
+      | HTTP
+      v
+FastAPI RAG Service ────── Gemini API
+```
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thaihung05/Polyclinic_Project)
-
----
-
-### 📚 English Center Management System · Hệ thống Quản lý Trung tâm Tiếng Anh
-*Oct 2025 – Jan 2026*
-
-A web system for managing courses, classes, student enrollment, and tuition payments.
-
-> Hệ thống web quản lý khóa học, lớp học, đăng ký học và thanh toán học phí.
-
-**Stack:** Python Flask · SQLAlchemy · MySQL · HTML/CSS · Bootstrap · JavaScript
-
-- Built course and class management with role-based access control
-- Developed authentication and authorization for multiple user roles
-- Used Git/GitHub for source control and teamwork
-
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thaihung05/project_CNPM)
+[Explore repository →](https://github.com/thaihung05/Training_system_project)
 
 ---
 
-## Certifications & Awards · Chứng nhận & Giải thưởng
+### Online Polyclinic Management System
 
-| | |
-|---|---|
-| 🏅 | 3rd Prize — Software Solution Programming Contest 2025 |
-| 🌟 | "Sinh viên 5 tốt" (5-Good Student) — University level 2024–2025 |
-| 🌟 | "Thanh niên tiên tiến" (Outstanding Youth) — University level 2025–2026 |
-| 📜 | Samsung Innovation Campus (SIC) 2025 — Completion certificate |
-| 📜 | Gemini Certified Educator 2025 |
-| 🌐 | Aptis ESOL B1 — British Council |
+**Academic Project · Mar–May 2026**
+
+A web application for managing medical records and user authentication.
+
+- Developed backend APIs and integrated them with a React frontend.
+- Designed relational database tables and collaborated using Git/GitHub.
+
+**Stack:** React · Spring Boot · MySQL · REST APIs · Axios
+
+[Explore repository →](https://github.com/thaihung05/Polyclinic_Project)
+
+---
+
+### English Center Management System
+
+**Academic Project · Oct 2025–Jan 2026**
+
+A web application for managing courses, classes, enrollment, and tuition payments.
+
+- Implemented authentication and permissions for administrators, teachers, and students.
+- Developed application workflows using Flask and SQLAlchemy.
+
+**Stack:** Python · Flask · SQLAlchemy · MySQL · JavaScript · Bootstrap
+
+[Explore repository →](https://github.com/thaihung05/project_CNPM)
+
+<a id="experience"></a>
+
+## 💼 Industry Experience
+
+### MWG — Learning & Development Intern
+
+**Jul–Sep 2026**
+
+- Supported employee training activities and designed visual training materials.
+- Built an internal trainer profile website using Java Spring and React, then used AI-assisted development to migrate it to Google Apps Script with Google Sheets as the data store.
+- Coordinated with IT to provide technical support and maintain connectivity for online training sessions with approximately 3,000–5,000 participants.
+
+## 🤝 Project Collaboration
+
+Used **Jira** to assign tasks and track team progress for the **Online Learning Platform** project, alongside **Git/GitHub** for version control.
+
+---
+
+<a id="activity"></a>
+
+## ⚡ Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thaihung05/thaihung05/profile-assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thaihung05/thaihung05/profile-assets/github-snake.svg" />
+  <img alt="Animated snake tracing my GitHub contribution graph" src="https://raw.githubusercontent.com/thaihung05/thaihung05/profile-assets/github-snake.svg" width="100%" />
+</picture>
+
+<p align="center"><sub>My GitHub contribution graph, animated. Updated daily.</sub></p>
+
+---
+
+<details>
+<summary><strong>🏆 Awards & Certifications</strong></summary>
+
+<ul>
+<li>Third Prize — Software Solution Programming Competition, 2025</li>
+<li>Samsung Innovation Campus — Certificate of Completion, 2025</li>
+<li>Gemini Certified Educator, 2025</li>
+<li>University-level “Student of Five Merits” Award, 2024–2025</li>
+<li>University-level Advanced Youth Recognition, 2025–2026</li>
+</ul>
+
+</details>
+
+---
+
+<div align="center">
+
+**Open to QA/QC Trainee opportunities**
+
+[Let's connect — thaihung.work05@gmail.com](mailto:thaihung.work05@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1D4ED8,100:7C3AED&amp;height=100&amp;section=footer" width="100%" alt="Blue and violet wave footer" />
